@@ -1,0 +1,5 @@
+{
+updateUrl="https://raw.githubusercontent.com/winXray/winXray/master/release/update/";
+description="发布v2.7, 修正已知BUG，优化界面, 重新整理并精简了说明文档、入门教程等。尽量不浪费大家宝贵的时间。";
+outputDir="/release/update/"
+}
